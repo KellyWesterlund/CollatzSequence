@@ -1,5 +1,5 @@
 # CollatzSequence
-# A short practice program to test the Collatz conjecture for a given integer
+# A short practice program to test the Collatz conjecture for any positive integer
 
 def collatz(number):
     while number <=0:
